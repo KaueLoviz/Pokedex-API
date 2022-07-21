@@ -1,4 +1,4 @@
-![Logo](./favicons/pokebola.png)
+![Logo](./assets/images/pokemonLogo.png)
 # Pokédex API 
 
 
