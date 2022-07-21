@@ -2,7 +2,7 @@
 # Pokédex API 
 
 
-Projeto consumindo a PokéAPI.
+Projeto consumindo a PokéAPI - https://pokeapi.co/
 
 
 ## Author🙋‍♂️
